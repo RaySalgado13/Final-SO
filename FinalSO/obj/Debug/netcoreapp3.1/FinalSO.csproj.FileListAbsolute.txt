@@ -1,0 +1,15 @@
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\bin\Debug\netcoreapp3.1\FinalSO.exe
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\bin\Debug\netcoreapp3.1\FinalSO.deps.json
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\bin\Debug\netcoreapp3.1\FinalSO.runtimeconfig.json
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\bin\Debug\netcoreapp3.1\FinalSO.runtimeconfig.dev.json
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\bin\Debug\netcoreapp3.1\FinalSO.dll
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\bin\Debug\netcoreapp3.1\FinalSO.pdb
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.csprojAssemblyReference.cache
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.Form1.resources
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.csproj.GenerateResource.cache
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.AssemblyInfoInputs.cache
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.AssemblyInfo.cs
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.dll
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.pdb
+D:\VisualStudio2019 Projects\FinalSO\FinalSO\obj\Debug\netcoreapp3.1\FinalSO.genruntimeconfig.cache
